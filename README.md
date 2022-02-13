@@ -12,7 +12,7 @@ This repo consists of :
 
 - **presentation.pdf** which is a short summary of the study's main conclusions
 
-- **demo** folder contains code to test new speech samples. The new sample must belong to one of the following classes : "happy", "neutral", "sad", "angry". 
+- **demo** folder contains code to test new speech samples. The new sample must belong in one of the following classes : "happy", "neutral", "sad", "angry". 
   
   The folder contains the following files :
 
