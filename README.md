@@ -12,9 +12,17 @@ This repo consists of :
 
 - **presentation.pdf** which is a short summary of the study's main conclusions
 
-- **demo** folder contains a demo.py code file to test new speech samples.
+- **demo** folder contains code to test new speech samples. The new sample must belong to one of the following classes : "happy", "neutral", "sad", "angry". 
   
-  The new sample must belong to one of the following classes : "happy", "neutral", "sad", "angry". 
-  
-  The folder contains the following :
-    - 
+  The folder contains the following files :
+
+      - demo.py : code to test new samples
+      - model.pickle : contains the learned model and the audio features to choose from the test sample
+      - scaler.pickle : contains the learned standard scaler
+      - "test_sample" folder (initially empty)
+   
+   In order to test a new sample you may insert the wav file in the "test_sample" folder and then run the "demo.py" file.
+
+- **requirements.txt**
+
+- **pickles** folder which contains all pickle files generated after running the ipynb file. They are included in the repo for saving purposes.
