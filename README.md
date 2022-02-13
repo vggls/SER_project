@@ -19,7 +19,7 @@ This repo consists of :
       - demo.py : code to test new samples
       - model.pickle : contains the learned model and the audio features to choose from the test sample
       - scaler.pickle : contains the learned standard scaler
-      - "test_sample" folder (initially empty)
+      - "test_sample" folder : folder to put the wav file to test
    
    In order to test a new sample you may insert the wav file in the "test_sample" folder and then run the "demo.py" file.
 
