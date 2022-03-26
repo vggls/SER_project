@@ -1,4 +1,4 @@
-# **SER_project**
+# **SER_project_ML_Approach**
 
 This repo consists of :
 
