@@ -6,7 +6,7 @@ This repo consists of :
 
   The **data** can be obtained from the following Kaggle link : **https://www.kaggle.com/ejlok1/cremad**
   
-  In order to view the plotly plots of the ipynb file you may view it with "Jupyter nbviewer" : **https://nbviewer.org/**
+  In order to view the plotly plots of the ipynb file you may use "Jupyter nbviewer" : **https://nbviewer.org/**
   
 - **report.pdf** which is a detailed report of the sections described in the ipynb file
 
